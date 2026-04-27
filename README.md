@@ -1,4 +1,4 @@
-# Weather Info API (Pincode Based)
+# Weather Info for Pincode
 
 ## Overview
 
